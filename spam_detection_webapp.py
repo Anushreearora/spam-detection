@@ -8,7 +8,7 @@ with open("logistic_regression_model.pkl", "rb") as model_file:
     classifier = pickle.load(model_file)
 
 # Load the BERT vectorizer
-bert_model = SentenceTransformer("bert_vectorizer")
+bert_model = SentenceTransformer('bert-base-nli-mean-tokens')
 
 st.title("BERT-based Spam Detection Web App")
 st.write("Enter a message below to check if it's Spam or Not Spam.")
