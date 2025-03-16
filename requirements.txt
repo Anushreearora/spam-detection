@@ -3,4 +3,3 @@ sentence-transformers
 pandas
 numpy
 scikit-learn
-pickle
