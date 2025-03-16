@@ -1,0 +1,11 @@
+bert_vectorizer/config_sentence_transformers.json
+bert_vectorizer/config.json
+bert_vectorizer/model.safetensors
+bert_vectorizer/modules.json
+bert_vectorizer/README.md
+bert_vectorizer/sentence_bert_config.json
+bert_vectorizer/special_tokens_map.json
+bert_vectorizer/tokenizer_config.json
+bert_vectorizer/tokenizer.json
+bert_vectorizer/vocab.txt
+bert_vectorizer/1_Pooling/config.json
